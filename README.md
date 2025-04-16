@@ -1,7 +1,7 @@
 # VQNN for Cancer Treatment
 Prediction of Newly Synthesized Heparin Mimic’s Effects as Heparanase Inhibitor in Cancer Treatments via Variational Quantum Neural Networks
 
-Citation: S. Kocabay, E. Acar, S. Memiş, I.İ. Taşkın, M.R. Sever, and R. Şener, 2025. Prediction of Newly Synthesized Heparin Mimic’s Effects as Heparanase Inhibitor in Cancer Treatments via Variational Quantum Neural Networks, Computational Biology and Chemistry, (Under Review)
+Citation: S. Kocabay, E. Acar, S. Memiş, I.İ. Taşkın, M.R. Sever, and R. Şener, 2025. Prediction of Newly Synthesized Heparin Mimic’s Effects as Heparanase Inhibitor in Cancer Treatments via Variational Quantum Neural Networks, Computational Biology and Chemistry, https://doi.org/10.1016/j.compbiolchem.2025.108476
 
 Abstract:
 
